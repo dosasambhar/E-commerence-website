@@ -1,0 +1,352 @@
+.nav-item
+{
+    border-style:ridge;
+}
+
+.d-flex
+{
+    border-style: ridge;
+    border-color: rgb(249, 196, 196);
+}
+.card
+{
+    background-image: linear-gradient(rgba(251, 236, 242, 0.7),rgba(243, 226, 241, 0.7),rgba(248, 219, 247, 0.7));
+}
+.home-banner-1,
+.home-banner-2,
+.home-banner-3,
+.home-banner-4
+{
+    background-repeat: no-repeat;
+    background-position: 90% center;
+    background-size: cover;
+    position: relative;
+    min-height: 650px;
+}
+.home-banner-1
+{
+    background-image: url(image/13.jpg);
+}
+.home-banner-2
+{
+    background-image: url(image/women.jpg);
+}
+.home-banner-3
+{
+    background-image: url(image/e\ shop.jpg);
+}
+.home-banner-4
+{
+    background-image: url(image/klids.jpg);
+}
+.home-banner-text
+{
+    position: absolute;
+    left: 50%;
+    top: 35%;
+    transform: translate(-110%,50%);
+}
+
+.offers
+{
+    background-image: linear-gradient(rgba(243, 226, 233, 0.7), rgb(210, 193, 214),rgba(244, 203, 220, 0.7));
+}
+
+.offer-banner1,
+.offer-banner2,
+.offer-banner3,
+.offer-banner4,
+.offer-banner5
+{
+    background-repeat: no-repeat;
+    background-position: 20% center;
+    background-size: cover;
+    position:relative;
+    min-height: 350px;
+}
+.offer-banner1
+{
+    background-image: url(image/1.jpg);
+    border-style: ridge;
+    border-color: rgb(69, 5, 5);
+
+}
+.offer-banner2
+{
+    background-image: url(image/2.jpg);
+    border-style: ridge;
+    border-color: rgb(69, 5, 5);
+
+}
+.offer-banner3
+{
+    background-image: url(image/3.webp);
+    padding: 0.4cm;
+    border-style: ridge;
+    border-color: rgb(69, 5, 5);
+
+}
+.offer-banner4
+{
+    background-image: url(image/4.jpg);
+    border-style: ridge;
+    border-color: rgb(69, 5, 5);
+
+}
+.offer-banner5
+{
+    background-image: url(image/5.jpg);
+    border-style: ridge;
+    border-color: rgb(69, 5, 5);
+}
+.offer-banner-text
+{
+    position: absolute;
+    left: 60%;
+    top: 35%;
+    transform: translate(-110%,50%);
+    color: beige;
+}
+.offer-banner-text-2
+{
+    position: absolute;
+    left: 45%;
+    top: 35%;
+    transform: translate(-110%,50%);
+    color:black;
+}
+.offer-banner-text-3
+{
+    position: absolute;
+    left: 50%;
+    top: 10%;
+    transform: translate(-110%,50%);
+    color:black;
+}
+.offer-banner-text-4
+{
+    position: absolute;
+    left: 50%;
+    top: 10%;
+    transform: translate(-110%,50%);
+    color:beige;
+}
+
+.brand, .brand-1, .brand-2 , .brand-3, .brand-4, .brand-5, .brand-6, .brand-7, .brand-8, .brand-9, .brand-10, .brand-11
+{
+    background-repeat: no-repeat;
+    background-position: 20% center;
+    background-size: cover;
+    position:relative;
+    min-height: 400px;
+    min-width: 150px;
+}
+
+.brand
+{
+    border-radius: 50%;
+    background-image: url(image/br.jpg);
+    border-style: ridge;
+    border-color: rgb(69, 5, 5);
+}
+
+.brand-1
+{
+    border-radius: 50%;
+    background-image: url(image/br1.jpg);  
+    border-style: ridge;
+    border-color: rgb(69, 5, 5);
+}
+
+.brand-2
+{
+    border-radius: 50%;
+    background-image: url(image/br2.jpg);  
+    border-style: ridge;
+    border-color: rgb(69, 5, 5);
+}
+
+.brand-3
+{
+    border-radius: 50%;
+    background-image: url(image/br3.jpg);  
+    border-style: ridge;
+    border-color: rgb(69, 5, 5);
+}
+
+.brand-4
+{
+    border-radius: 50%;
+    background-image: url(image/br4.jpg);  
+    border-style: ridge;
+    border-color: rgb(69, 5, 5);
+}
+
+.brand-5
+{
+    border-radius: 50%;
+    background-image: url(image/br5.jpg);  
+    border-style: ridge;
+    border-color: rgb(69, 5, 5);
+}
+
+.brand-6
+{
+    border-radius: 50%;
+    background-image: url(image/br6.jpg);  
+    border-style: ridge;
+    border-color: rgb(69, 5, 5);
+}
+
+.brand-7
+{
+    border-radius: 50%;
+    background-image: url(image/br7.jpg);  
+    border-style: ridge;
+    border-color: rgb(69, 5, 5);
+}
+
+.brand-8
+{
+    border-radius: 50%;
+    background-image: url(image/br8.jpg);  
+    border-style: ridge;
+    border-color: rgb(69, 5, 5);
+}
+
+.brand-9
+{
+    border-radius: 50%;
+    background-image: url(image/br9.jpg);  
+    border-style: ridge;
+    border-color: rgb(69, 5, 5);
+}
+
+.brand-10
+{
+    border-radius: 50%;
+    background-image: url(image/br10.jpg);  
+    border-style: ridge;
+    border-color: rgb(69, 5, 5);
+}
+
+.brand-11
+{
+    border-radius: 50%;
+    background-image: url(image/br11.jpg);  
+    border-style: ridge;
+    border-color: rgb(69, 5, 5);
+}
+
+.brand-text , .brand-1-text , .brand-2-text, .brand-3-text, .brand-4-text , .brand-5-text , .brand-6-text, .brand-7-text , .brand-8-text, .brand-9-text, .brand-10-text, .brand-11-text
+{
+    position: absolute;
+    left: 70%;
+    top: 60%;
+    transform: translate(-110%,50%);
+    color: beige;
+}
+
+
+
+
+
+/* css for account */
+.body-1
+{
+    height: 100%;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-image: url(image/Screenshot\ \(3\).png);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-bottom: 20%;
+}
+.container-1
+{
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    background-color: rgba(0,0,0,0.4);
+    border-style: ridge;
+    width: 410px;
+    padding: 90px;
+    box-shadow: 0,0,8px rgba(0,0,0,0.1);
+}
+.container-1.text
+{
+    font-size:40px;
+    font-weight:600;
+    text-align:center; 
+    height: max-content;
+}
+.container-1 form 
+{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+.container-1 form .data
+{
+    height: 45px;
+    width: 100%;
+    margin: 20px,0;
+}
+form .data label
+{
+    font-size: 15px;
+}
+
+form .data input
+{
+    height: 60%;
+    width: 120%;
+    padding-left: 5px;
+    font-size: 13px;
+    border: 1px solid silver;
+}
+
+form .data input:focus
+{
+    border-color: teal;
+    border-bottom-width: 2px ;
+}
+
+form .forget-pass
+{
+    margin-top: 20px;
+    display: flex;
+    align-items: center;
+    align-self:start;
+}
+
+form .forget-pass a
+{
+    color: brown;
+    text-decoration: dotted;
+}
+ 
+form .btn-2
+{
+    margin: 30px;
+    height: 45px;
+    width: 100%;
+}
+
+form .btn-2 button
+{
+    height: 100%;
+    width: 100%;
+    background: linear-gradient(rgb(241, 220, 232),rgb(241, 220, 235),rgb(241, 220, 241));
+    text-transform: uppercase;
+}
+
+.btn-2 button:hover
+{
+    background-position: center;
+}
+
+
